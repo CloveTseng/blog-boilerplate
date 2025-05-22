@@ -124,7 +124,7 @@ blockquote:before,
 blockquote:after,
 q:before,
 q:after {
-  content: '';
+  content: "";
   content: none;
 }
 
@@ -142,4 +142,8 @@ body {
   margin: 0 auto;
   padding: 0 15px;
 }
-/*# sourceMappingURL=all.css.map */
+
+.liwen_h1 {
+  font-size: 50px;
+  color: red;
+}/*# sourceMappingURL=all.css.map */
